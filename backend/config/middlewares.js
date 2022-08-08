@@ -28,7 +28,7 @@ module.exports = [
       },
     },
   },
-  /* End of snippet */,
+  /* End of snippet */
   'strapi::cors',
   'strapi::poweredBy',
   'strapi::logger',
